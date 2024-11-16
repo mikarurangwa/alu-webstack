@@ -45,5 +45,5 @@ frontend mikarurangwa-frontend-https
 
 backend mikarurangwa-backend
     balance roundrobin
-    server 6278-web-01 54.175.242.240:80 check
-    server 6278-web-02 54.87.199.12:80 check
+    server 6340-web-01 54.175.242.240:80 check
+    server 6340-web-02 54.87.199.12:80 check
